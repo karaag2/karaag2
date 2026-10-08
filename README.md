@@ -1,7 +1,7 @@
 <div align="center">
 
 # Amos Issa Diabado Yonli
-### Software Engineer & Systems Architect · Founder @ [Binary Builders](https://github.com/karaag2)
+### Software Engineer | Digital Public Infrastructure & AI for Development (T4D) · Studio Lead @ [Binary Builders](https://github.com/karaag2)
 **Building Resilient Digital Public Infrastructure (DPI), Distributed Microservices & Edge Systems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amos_Yonli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amos-yonli/)
@@ -61,7 +61,7 @@ I engineer fault-tolerant, mission-critical systems designed to operate reliably
 
 * **Software Engineer @ Hayat Charity Platform (Humanitarian DPI, Distributed Microservices, Event Sourcing)**
   * Core backend systems engineering, transactional event-driven microservices, and regional payment integrations.
-* **Founder & Systems Architect @ [Binary Builders](https://github.com/karaag2)**
+* **Software Engineer & Studio Lead @ [Binary Builders](https://github.com/karaag2)**
   * Technical consulting, systems architecture reviews, and mission-critical software engineering.
 
 ---
