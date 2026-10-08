@@ -30,11 +30,11 @@ I engineer fault-tolerant, mission-critical systems designed to operate reliably
 
 ## ⚡ Flagship Architectures & Engineering (2026)
 
-### 🏥 [Hayat Platform](https://github.com/karaag2) — Distributed Healthcare DPI & Telemedicine Ecosystem
-> **Architecture**: Distributed Event-Driven Microservices · CQRS · Moleculer.js · GridFS Multipart Stream · FinTech Integrations
-* **Resilient Microservices**: Built on Moleculer.js with broker-level service discovery, circuit breakers, and distributed tracing.
-* **High-Throughput Medical File Storage**: Engineered chunked multipart streaming on MongoDB GridFS for large radiological imaging and electronic health records.
-* **Sahelian FinTech Payment Engine**: Unified payment routing and automated financial reconciliation layer integrating NITA, Amana Transfert, and mobile money operators with atomic ledger rollback guarantees.
+### 🩺 [Doctor Blythe](https://github.com/karaag2/doctor_blythe_web_app) ([Live Demo](https://karaag2.github.io/doctor_blythe_web_app/)) — Clinical Workflow & Pediatric Teleconsultation Platform
+> **Architecture**: React 19 · Vite · Tailwind CSS v4 · Modular Clinical State · Responsive Triage
+* **Pediatric Consultation & Clinical Workflow**: Engineered structured clinical intake and triage workflows specifically designed for rapid pediatric diagnosis and teleconsultation.
+* **Modern Reactive Interface**: Built with React 19, Vite, and Tailwind CSS v4 to guarantee sub-second interaction feedback and fluid mobile-first clinical charting.
+* **Live Deployment**: Production build active and publicly accessible at [karaag2.github.io/doctor_blythe_web_app](https://karaag2.github.io/doctor_blythe_web_app/).
 
 ### 🎟️ [TicketManager](https://github.com/karaag2/TicketManagerTomodachiCrew) (Tomodachi Crew) — Ultra-Low Latency Access & Edge Computer Vision
 > **Architecture**: Edge WebAssembly/BarcodeDetector API · NestJS · Neon PostgreSQL (Serverless) · High-Concurrency Ingress
@@ -54,6 +54,15 @@ I engineer fault-tolerant, mission-critical systems designed to operate reliably
 ### 🏺 [Artisaline Platform](https://github.com/karaag2/artisaline-backend) — Cultural Commerce Engine for Sahelian Craftsmanship
 > **Architecture**: Express · Prisma ORM · PostgreSQL · High-Performance Catalog
 * **Localized E-Commerce**: High-conversion responsive storefront backed by an optimized REST API powering artisans across West Africa, pairing rich regional media catalogues with efficient database query plans.
+
+---
+
+## 💼 Professional Experience
+
+* **Software Engineer @ Hayat Charity Platform (Humanitarian DPI, Distributed Microservices, Event Sourcing)**
+  * Core backend systems engineering, transactional event-driven microservices, and regional payment integrations.
+* **Founder & Systems Architect @ [Binary Builders](https://github.com/karaag2)**
+  * Technical consulting, systems architecture reviews, and mission-critical software engineering.
 
 ---
 
